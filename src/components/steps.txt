@@ -1,0 +1,7 @@
+step 1 -> setup react project 
+step 2 -> create task | add task 
+step 3 -> edit task 
+step 4 -> delete task 
+step 5 -> error msg 
+step 6 -> add a stop watch 
+step 7 -> local storage 
